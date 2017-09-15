@@ -1,7 +1,8 @@
 # Jasper-Module-Reboot
 
-Jasper Reboot Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
 Reboot your RaspberryPI using your voice.
+
+Jasper Reboot Module for my [HAL9000 Raspberry PI Instructable](http://www.instructables.com/id/RaspberryPI-HAL9000/)
 
 ## Steps to install Reboot Module
 
